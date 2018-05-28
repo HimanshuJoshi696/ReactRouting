@@ -1,0 +1,40 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.selected{
+  color:red !important;
+}
+.MenuLeftSection{
+  float: left;
+  width: 29%;
+  padding: 2% 2%;
+  margin: 0 2%;
+  background: #000;
+}
+.MenuLeftSection a{
+  display: block;
+  color: #fff;
+  font-size:20px;
+  text-decoration:none;
+  padding: 10px 0 0
+}
+.rightSection{
+  float: right;
+  width: 50%;
+}
+.userLoginInputBox input{
+  display: block;
+  margin: 1rem 0;
+}
+.rightSection a{
+  color: #fff;
+  font-size: 20px;
+  text-decoration: none;
+  padding: 11px 31px;
+  background: #000;
+  margin: 0% 2% 0 0%;
+  display: inline-block;
+}
